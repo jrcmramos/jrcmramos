@@ -1,5 +1,5 @@
 
-I’m currently working as a senior iOS developer in Zurich 🇨🇭. 
+I’m currently working as a senior iOS developer in London 🇨🇬🇧. 
 
 Currently working on educating myself on time management and personal finances. In order to don't forget how to program while learning this, I have developed my own app [TimePlaces](https://apps.apple.com/us/app/id1151222627) 😅 I also like to do sports, it keeps me on track 🏃‍.
 
